@@ -1,0 +1,16 @@
+[
+  
+  {
+    "name": "Telegram",
+    "nameFa": "تلگرام",
+    "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Telegram.svg",
+    "contact_link": "https://t.me/Orange_support"
+  },
+  
+  {
+    "name": "Phone Number",
+    "nameFa": "شماره تلفن",
+    "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Phone_iOS.png",
+    "contact_link": "https://t.me/orangevpns_bot"
+  }
+]
